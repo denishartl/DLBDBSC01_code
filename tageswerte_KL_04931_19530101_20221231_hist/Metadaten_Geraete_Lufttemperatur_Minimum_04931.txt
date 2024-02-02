@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4931;Stuttgart-Echterdingen;9.19;48.69;405;2.2;19530101;19651231;Minimumthermometer;Temperaturmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.2;48.69;397.5;2.2;19660101;19730531;Minimumthermometer;Temperaturmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;373;2.2;19730601;19950930;Minimumthermometer;Temperaturmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;2;19951001;20081116;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;2.2;19951001;19951003;Minimumthermometer;Temperaturmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;2;20081117;20150309;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;2;20150310;20190909;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;2;20190910;20230426;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

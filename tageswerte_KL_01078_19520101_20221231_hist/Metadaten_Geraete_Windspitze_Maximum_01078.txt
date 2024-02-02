@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1078;Düsseldorf;6.77;51.28;36;17;19520101;19530114;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1078;Düsseldorf;6.77;51.28;36;10;19530115;19600630;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1078;Düsseldorf;6.76;51.28;36;10;19600701;19660427;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1078;Düsseldorf;6.78;51.29;37;13.7;19660428;19670215;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1078;Düsseldorf;6.78;51.29;37;10.2;19670216;19921005;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
+1078;Düsseldorf;6.77;51.3;37;10.2;19921006;20060202;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1078;Düsseldorf;6.77;51.3;36.6;10.2;20060203;20070508;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1078;Düsseldorf;6.77;51.3;36.6;10;20070509;20180701;Windsensor Classic 4.3303;Windmessung, elektr.;eor;
+1078;Düsseldorf;6.77;51.3;36.6;10;20180702;20230426;Windsensor Classic 4.3303 (DWDSYN);Windmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+427;Berlin-Schönefeld;13.53;52.38;46;55;19570101;19601231;Stationsbarometer;Luftdruckmessung, konv.;eor;
+427;Berlin-Schönefeld;13.53;52.38;46;57.7;19610101;19631231;Stationsbarometer;Luftdruckmessung, konv.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;47.8;19640101;19920131;Stationsbarometer;Luftdruckmessung, konv.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;47.8;19640116;19750923;Stationsbarometer, unbekannt;Luftdruckmessung, konv.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;47.8;19870901;19920131;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;47.8;19920201;20081116;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;50.3;20081117;20130521;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;50.3;20111012;20150430;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;50.3;20141120;20201030;Digitalbarometer PTB 330 (mit Anzeige, dreifach);Luftdruckmessung, elektr.;eor;
+427;Berlin Brandenburg;13.53;52.38;45.59;50.3;20201031;20221114;Digitalbarometer PTB 330 (mit Anzeige, dreifach);Luftdruckmessung, elektr.;eor;
+427;Berlin Brandenburg;13.53;52.38;45.59;50.3;20221115;20230426;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

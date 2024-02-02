@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  2667;Köln-Wahn;18920601;19570831
+  2667;Köln-Bonn;19570901;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  2667;DWD;18920601;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

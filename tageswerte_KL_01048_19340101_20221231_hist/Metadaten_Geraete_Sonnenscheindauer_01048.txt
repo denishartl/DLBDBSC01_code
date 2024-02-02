@@ -1,0 +1,12 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1048;Dresden-Heller;;;;;19350201;19350630;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+1048;Dresden-Heller;13.75;51.1;152;14;19350701;19350710;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1048;Dresden-Klotzsche;13.76;51.12;229;14;19350711;19560419;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1048;Dresden-Klotzsche;13.77;51.13;222;14;19560420;19560430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1048;Dresden-Klotzsche;13.77;51.13;222;13;19740801;19900731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1048;Dresden-Klotzsche;13.77;51.13;222;13;19900801;19920430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+1048;Dresden-Klotzsche;13.77;51.13;222;13;19920501;19950831;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227;1.8;19950901;20170215;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227;1.8;20170220;20190813;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227.57;1.8;20190814;20230426;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

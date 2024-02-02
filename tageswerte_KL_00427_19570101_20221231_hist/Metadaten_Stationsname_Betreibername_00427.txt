@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   427;Berlin-Schönefeld;19461201;20201030
+   427;Berlin Brandenburg;20201031;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+   427;Wetterdienst;19461201;19521110
+   427;Meteorologischer Dienst der DDR;19521111;19901231
+   427;DWD;19910101;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+427;Berlin-Schönefeld;13.53;52.38;46;.05;19570101;19631231;Minimumthermometer;Temperaturmessung, konv.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;.05;19640101;20081127;Minimumthermometer;Temperaturmessung, konv.;eor;
+427;Berlin-Schönefeld;13.53;52.38;45.59;.05;19870901;20201030;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+427;Berlin Brandenburg;13.53;52.38;45.59;.05;20201031;20230426;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

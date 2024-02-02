@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1303;Essen-Mülheim;6.94;51.41;120;121.6;19350101;19450508;Stationsbarometer, unbekannt;Luftdruckmessung, konv.;eor;
+1303;Essen-Mülheim;6.93;51.42;120;;19450509;19470930;Stationsbarometer, unbekannt;Luftdruckmessung, konv.;eor;
+1303;Essen-Mülheim;6.94;51.41;120;128;19471001;19650711;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;153.5;161;19650712;19850526;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1303;Essen-Bredeney;6.97;51.41;152;161;19850527;20000724;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;161.1;20051207;20051207;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;149.8;20051208;20151130;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;149.8;20150601;20190224;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+1303;Essen-Bredeney;6.97;51.4;150;149.8;20190225;20230426;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4931;Stuttgart-Echterdingen;9.19;48.69;405;400.5;19530101;19651231;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.2;48.69;397.5;418.7;19660101;19730531;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;373;418.7;19730601;19950930;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;391.4;19951001;19951003;Stationsbarometer;Luftdruckmessung, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;391.4;19951004;20081116;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;391.6;20081117;20150309;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;391.36;20150310;20190909;Digitalbarometer PTB 330 (mit Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;391.36;20190910;20210614;Digitalbarometer PTB 330 (mit Anzeige, einfach);Luftdruckmessung, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;391.36;20210615;20230426;Digitalbarometer PTB 330 (mit Anzeige, dreifach);Luftdruckmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

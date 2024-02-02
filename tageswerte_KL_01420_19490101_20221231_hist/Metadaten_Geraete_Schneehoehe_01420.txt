@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1420;Frankfurt/Main;;;;;19490101;19501231;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+1420;Frankfurt/Main;8.59;50.05;113;;19510101;19560930;Schneepegel;Schneehöhenmessung, manuell;eor;
+1420;Frankfurt/Main;8.6;50.05;113;;19561001;19840630;Schneepegel;Schneehöhenmessung, manuell;eor;
+1420;Frankfurt/Main;8.6;50.04;112;;19840701;20141021;Schneepegel;Schneehöhenmessung, manuell;eor;
+1420;Frankfurt/Main;8.52;50.03;99.7;;20141022;20220905;Schneepegel;Schneehöhenmessung, manuell;eor;
+1420;Frankfurt/Main;8.52;50.03;99.7;2.3;20210713;20230426;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

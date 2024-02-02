@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1048;Dresden-Klotzsche;;;;;19340101;19350710;Gerätetyp unbekannt;Luftdruckmessung, konv.;eor;
+1048;Dresden-Klotzsche;13.76;51.12;229;230.5;19350711;19441205;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1048;Dresden-Klotzsche;13.77;51.13;222;226.45;19560501;19900731;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1048;Dresden-Klotzsche;13.77;51.13;222;226.5;19900801;19920731;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1048;Dresden-Klotzsche;13.77;51.13;222;230.2;19920801;19950831;Stationsbarometer;Luftdruckmessung, konv.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227;232.4;19950901;20080309;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227;232.4;20070827;20150225;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227;232.4;20141105;20190813;Digitalbarometer PTB 330 (mit Anzeige, dreifach);Luftdruckmessung, elektr.;eor;
+1048;Dresden-Klotzsche;13.75;51.13;227.57;232.4;20190814;20230426;Digitalbarometer PTB 330 (mit Anzeige, dreifach);Luftdruckmessung, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

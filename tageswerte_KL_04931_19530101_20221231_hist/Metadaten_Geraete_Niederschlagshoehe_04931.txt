@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4931;Stuttgart-Echterdingen;9.19;48.69;405;1;19530101;19651231;Hellmann;Niederschlagsmenge, konv.;eor;
+4931;Stuttgart-Echterdingen;9.2;48.69;397.5;1;19660101;19730531;Hellmann;Niederschlagsmenge, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;373;1;19730601;19950930;Hellmann;Niederschlagsmenge, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;1;19951001;20081116;Niederschlagssensor nach Joss-Tognini;Niederschlagsmenge, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;1;19951001;19951003;Hellmann;Niederschlagsmenge, konv.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;1;20081117;20150309;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;1;20150310;20181010;PLUVIO;Niederschlagsmenge, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;1;20181011;20190909;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+4931;Stuttgart-Echterdingen;9.22;48.69;371;1;20190910;20230426;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

@@ -1,0 +1,26 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+1981;Hamburg-Neuwiedenthal;TMK;21.11.2006;21.11.2006;1;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;TMK;03.06.2008;04.06.2008;2;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;TGK;07.02.1985;11.02.1985;5;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;UPM;21.11.2006;21.11.2006;1;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;UPM;03.06.2008;04.06.2008;2;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;UPM;28.04.2010;29.04.2010;2;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;UPM;20.11.2021;22.11.2021;3;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;UPM;21.03.2023;21.03.2023;1;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;VPM;21.11.2006;21.11.2006;1;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;VPM;03.06.2008;04.06.2008;2;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;VPM;28.04.2010;29.04.2010;2;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;VPM;20.11.2021;22.11.2021;3;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;VPM;21.03.2023;21.03.2023;1;;eor;                                                                                                                                            
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2012;30.09.2012;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2013;30.09.2013;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2014;30.09.2014;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2015;30.09.2015;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2016;30.09.2016;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2017;30.09.2017;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2018;30.09.2018;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2019;30.09.2019;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2020;30.09.2020;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2021;30.09.2021;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+1981;Hamburg-Neuwiedenthal;SHK_TAG;01.05.2022;30.09.2022;153;Automat: Sensor von Mai bis September nicht in Betrieb;eor;                                                                                
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --                                                                                                                                                    

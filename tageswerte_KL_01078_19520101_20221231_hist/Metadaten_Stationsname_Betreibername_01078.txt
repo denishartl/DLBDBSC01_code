@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1078;Düsseldorf;19380101;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1078;Wetterdienst;19380101;19521110
+  1078;DWD;19521111;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --
